@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Adapter">
+</Property><Property Name="Solution File" Value="E:\dssoft\Паттерны проектирования\Struct\Adapter\Adapter.sln">
+</Property><Property Name="Date" Value="23 листопада 2011 р.">
+</Property><Property Name="Time" Value="10:45">
+</Property></Properties><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Adapter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Adapter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Adapter" Source="Adapter\Adapter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
